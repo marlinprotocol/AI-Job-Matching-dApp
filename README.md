@@ -83,7 +83,7 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-5. On first use, you'll be asked to enter the contract address from the deployment step. Enter the address and connect your MetaMask.
+5. On first use, go to `app/utils/web3.ts`, Enter the deployed contract addresses, create `.env` file according to the example and connect your MetaMask wallet.
 
 ## 🎯 Using the Application
 
